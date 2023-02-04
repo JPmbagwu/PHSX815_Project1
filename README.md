@@ -4,8 +4,8 @@
 
 This repository contains the programs:
 
-*DiceAnalysis.py [Python]
-*DiceRoll.py [Python]
+* DiceAnalysis.py [Python]
+* DiceRoll.py [Python]
 
 # Utilization
 
