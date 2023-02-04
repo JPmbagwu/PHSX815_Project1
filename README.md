@@ -2,7 +2,7 @@
 
 # Dice roller
 
-This repository contains the programs:
+These programs are available in this repository:
 
 * DiceAnalysis.py [Python]
 * DiceRoll.py [Python]
