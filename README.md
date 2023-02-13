@@ -13,4 +13,7 @@ The -h or —help flag can be used to print the options when calling any of the 
 
 # Example usage
 
-** matplotlib (python)
+* matplotlib (python)
+
+The python file DiceAnalysis.py can be run from the command line by typing:
+`DiceAnalysis.py`
