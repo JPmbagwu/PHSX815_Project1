@@ -7,6 +7,10 @@ These programs are available in this repository:
 * DiceAnalysis.py [Python]
 * DiceRoll.py [Python]
 
+The usage of three separate plotting libraries necessitates independent download, setup, and installation by users (instructions are available at the links below).
+* matplotlib (python)
+* numpy       (pyhon)
+
 # Utilization
 
 The -h or —help flag can be used to print the options when calling any of the executables from the command line. 
