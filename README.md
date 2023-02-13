@@ -17,5 +17,6 @@ The -h or —help flag can be used to print the options when calling any of the 
 
 The python file D`DiceAnalysis.py` can be run from the command line by typing:
 
-<> python DiceAnalysis.py
+`<> python DiceAnalysis.py`
 
+This requires a working `Python` distribution (so that the python executable exists) with the Python package `numpy` and `Matplotlib` also installed.
