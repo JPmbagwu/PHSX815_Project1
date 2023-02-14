@@ -20,7 +20,7 @@ The -h or —help flag can be used to print the options when calling any of the 
 
 * matplotlib (python)
 
-The python file D`DiceAnalysis.py` can be run from the command line by typing:
+The python file `DiceAnalysis.py` can be run from the command line by typing:
 
 `<> python DiceAnalysis.py`
 
