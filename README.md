@@ -9,12 +9,10 @@ These programs are available in this repository:
 
 # Utilization
 
-The usage of three separate plotting libraries necessitates independent download, setup, and installation by users (instructions are available at the links below).
+The usage of two separate plotting libraries necessitates independent download, setup, and installation by users.
 
 * matplotlib (python)
 * numpy       (pyhon)
-
-The -h or —help flag can be used to print the options when calling any of the executables from the command line. 
 
 # Example usage
 
